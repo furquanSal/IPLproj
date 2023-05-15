@@ -58,7 +58,6 @@ html {
 .footer-col-3 {
     width: 24%;
     flex-wrap: wrap;
-
     display: inline-block;
     vertical-align: top;
 }
@@ -67,7 +66,6 @@ html {
     width: 24%;
     flex-wrap: wrap;
     vertical-align: top;
-    
     display: inline-block;
 }
 
@@ -243,7 +241,6 @@ html {
 
 .slides {
     width: 500%;
-    /* height: 500px; */
     display: flex;
 }
 
